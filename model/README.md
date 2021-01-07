@@ -1,7 +1,7 @@
-This folder includes the model files for displicit-local.
+This folder includes the model files for displicit-local.    
 
-SOURCE & OWNER: https://github.com/GantMan/nsfw_model
-LICENSE: https://github.com/GantMan/nsfw_model/blob/master/LICENSE.md
+SOURCE & OWNER: https://github.com/GantMan/nsfw_model    
+LICENSE: https://github.com/GantMan/nsfw_model/blob/master/LICENSE.md    
 
 > This project contains third-party copyrighted material under different licenses. Except where otherwise explicitly stated, this project is licensed as follows:
 >
