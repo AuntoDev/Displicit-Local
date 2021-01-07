@@ -1,4 +1,4 @@
-This folder includes the model files for displicit-local.    
+This folder includes the model files for displicit-local. These model files are **NOT** owned by Aunto Development and we do not take credit for them. See below for details.    
 
 SOURCE & OWNER: https://github.com/GantMan/nsfw_model    
 LICENSE: https://github.com/GantMan/nsfw_model/blob/master/LICENSE.md    
