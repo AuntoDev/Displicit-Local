@@ -1,0 +1,26 @@
+{
+  "name": "@auntodev/displicit-local",
+  "version": "1.0.17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuntoDev/displicit-local.git"
+  },
+  "author": "Aunto Development <hello@auntodev.com> (https://auntodev.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AuntoDev/displicit-local/issues"
+  },
+  "homepage": "https://github.com/AuntoDev/displicit-local#readme",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^2.8.2",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "fs": "0.0.1-security",
+    "nsfwjs": "^2.3.0"
+  }
+}
